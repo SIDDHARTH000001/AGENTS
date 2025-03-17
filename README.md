@@ -13,6 +13,7 @@ This repository contains a collection of AI agents developed using LangGraph. Th
 | **ResearchAgent.ipynb**      | A research-focused agent implementation.      |
 | **crewai.ipynb**             | Initial exploration of AI agent capabilities. |
 | **multi-agent-collaboration.ipynb** | Demonstration of multi-agent collaboration. |
+| **06_RAG_Agent_with_memory.ipynb** | Demonstration of Advance Rag approach. |
 
 ## Features
 - **LangGraph Basics:**
