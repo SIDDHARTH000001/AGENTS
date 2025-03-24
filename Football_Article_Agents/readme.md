@@ -1,6 +1,9 @@
 # Football Transfer News Article Evaluator
 This project features a LangGraph-based agent designed to evaluate news articles based on specific criteria related to football (soccer) transfers. The agent assesses each article and provides binary scores ('yes' or 'no') across four distinct categories.​
 
+# FLOW
+![FLOW](Football_Article_Agents/workflows/output.png)
+
  Evaluation Criteria
 The agent evaluates articles based on the following four criteria:
 
