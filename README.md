@@ -40,13 +40,3 @@ This repository contains a collection of AI agents developed using LangGraph. Th
   pip install -r REQ_FINAL.txt
   ```
 
-### Running Examples
-
-Open any `.ipynb` file in a Jupyter Notebook or JupyterLab environment to explore and execute the agent implementations. For example:
-
-1. Start Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-2. Open the desired notebook (e.g., `AGENT.ipynb`) and follow the instructions.
-sdafdddddddddddddsfa
