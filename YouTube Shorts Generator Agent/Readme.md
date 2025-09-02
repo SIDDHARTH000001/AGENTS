@@ -128,5 +128,3 @@ shorts-generator/
 🔥 With one command, you can process **one video** or **batch an entire folder**, complete with subtitles, remix gameplay, music, and branding.
 
 ---
-
-in tihs i wil remote this adsfas
