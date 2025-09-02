@@ -6,6 +6,8 @@ This repository contains a collection of AI agents developed using LangGraph. Th
 
 | File                         | Description                                   |
 |------------------------------|-----------------------------------------------|
+| **YouTube Shorts Generator Agent** | Automation of youttube short creation using LangGraph. |
+| **Football_Article_Agents** | Using langgraph with async postgres for memory. |
 | **AGENT.ipynb**              | Introduction to LangGraph agent basics.       |
 | **Hierarchicalagent.ipynb**  | Implementation of hierarchical agents.         |
 | **Multi-agent.ipynb**        | Multi-agent system for complex task solving.  |
