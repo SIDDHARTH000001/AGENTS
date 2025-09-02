@@ -50,6 +50,3 @@ Open any `.ipynb` file in a Jupyter Notebook or JupyterLab environment to explor
    ```
 2. Open the desired notebook (e.g., `AGENT.ipynb`) and follow the instructions.
 
-## Contributions
-Contributions are welcome! If you have ideas for new agents or improvements, feel free to open an issue or submit a pull request.
-
